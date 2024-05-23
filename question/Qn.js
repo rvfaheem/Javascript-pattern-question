@@ -1,0 +1,8 @@
+let n=5;
+for(i=0;i<=5;i++){
+    let str=" *"
+    
+    console.log(str.repeat((i)));
+}
+
+ 
